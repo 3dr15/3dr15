@@ -2,6 +2,7 @@
 - 👀 I’m interested in .NET, Angular, Azure, IOT.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any exciting project.
+- 📫 How to reach me: echhawniwala@gmail.com
 - 📫 How to reach me: edrisitprofessional@gmail.com
 
 <!---
